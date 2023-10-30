@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StackOperation\bin\Debug\StackOperation.exe.config
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StackOperation\bin\Debug\StackOperation.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StackOperation\bin\Debug\StackOperation.pdb
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StackOperation\obj\Debug\StackOperation.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StackOperation\obj\Debug\StackOperation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StackOperation\obj\Debug\StackOperation.exe
+C:\Users\Admin\Desktop\Practice_Exercise\Demos\StackOperation\obj\Debug\StackOperation.pdb
